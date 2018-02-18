@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modul2_Afif_1202154147</string>
+    <string-array name="no">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+    </string-array>
+</resources>
